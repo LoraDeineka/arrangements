@@ -25,7 +25,7 @@ export default function Home() {
           <div className="max-w-3xl w-full text-left">
             <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl font-semibold leading-tight mb-6">
               Трёхмерная терапия:{' '}
-              <span className="font-normal italic text-psy-accent">исцеление через подсознание, тело и силу рода.</span>
+              <span className="font-normal italic text-psy-accent">Три ключа к вашей свободе: подсознание, тело и родовые сценарии.</span>
             </h1>
             
             <h2 className="font-sans text-xl sm:text-2xl md:text-3xl text-psy-textMuted font-medium mb-6">
