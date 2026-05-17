@@ -24,7 +24,7 @@ export default function NavLinks() {
       <Link href="/regress" onClick={closeMenu} className="text-sm text-psy-textMuted hover:text-psy-accent transition-colors w-full text-center md:w-auto">
         Регресс
       </Link>
-      <Link href="/body-therapy" onClick={closeMenu} className="text-sm text-psy-textMuted hover:text-psy-accent transition-colors w-full text-center md:w-auto">
+      <Link href="/somatic" onClick={closeMenu} className="text-sm text-psy-textMuted hover:text-psy-accent transition-colors w-full text-center md:w-auto">
         Телесная терапия
       </Link>
       <Link href="/contacts" onClick={closeMenu} className="text-sm text-psy-textMuted hover:text-psy-accent transition-colors w-full text-center md:w-auto">
