@@ -1,7 +1,6 @@
 
 import { Playfair_Display, Inter } from 'next/font/google';
-import { FaTelegram, FaInstagram, FaYoutube, FaTiktok, FaFacebook } from 'react-icons/fa6';
-import Link from 'next/link';
+
 
 const playfair = Playfair_Display({
   subsets: ['cyrillic', 'latin'],
@@ -37,7 +36,7 @@ export default function Home() {
 
 </p>
 <p className="text-psy-textMuted text-base md:text-lg leading-relaxed mb-8 max-w-xl">
-Помогаю найти их первопричину в прошлых воплощениях (регресс), распутать родовые сценарии (МАК-расстановки) и навсегда отпустить их через тело (телесная терапия). Это безопасные методы, которые проходят под чутким контролем. За один цикл сессий вы получите результат, на который в обычной терапии уходят годы.
+На сессиях я помогаю найти их первопричину в прошлых воплощениях (регресс), распутать родовые сценарии (МАК-расстановки) и навсегда отпустить их через тело (телесная терапия). Это безопасные методы, которые проходят под чутким контролем. За один цикл сессий вы получите результат, на который в обычной терапии уходят годы.
   
 </p>
             
